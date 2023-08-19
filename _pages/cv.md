@@ -1,13 +1,11 @@
 ---
 layout: archive
-title: "CV"
+title: "John Kessler"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
-
-# John Kessler
 - Phone: (470) 298-5551
 - Email: johncolekessler@gmail.com
 
