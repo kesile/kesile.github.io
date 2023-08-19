@@ -12,7 +12,6 @@ redirect_from:
 Hello! I'm a rising junior and returning boarding student at New England Innovation Academy. I'm a strong believer in leveraging rapidly advancing technologies to create a better world. Let's collaborate to achieve something great together.
 
 # Experience
-Where I've worked and what I've done there.
 ## Research @ Massachusetts Institute of Technology | 2023 - Current
 During my time at MIT, I am working within the confluence of Artificial Intelligences and the City Sciences. More specifically, my work is geared towards making data accessible to the average citizen.
 - Spearheaded the creation of SQLLM, a bandwidth efficient, adaptable architecture that allowed LLMs to securely interact with databases without forfeiting more information than required.
@@ -37,7 +36,6 @@ As the Chief Design Officer of the New England Innovation Academy school store, 
 - As CDO, I was also in charge of the design of all of our current items. I worked closely with the CMO and COO, alongside administration to identify feasible clothing design solutions and ideal garment choices.
 
 # Projects
-
 ### SQLLM - Touchless, secure LLM-DB interaction.
 
 - Designed and implemented an innovative system to enhance Human-Database interaction.
