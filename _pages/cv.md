@@ -1,12 +1,3 @@
----
-layout: archive
-title: ""
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
-{% include base_path %}
 [Resume](https://docs.google.com/document/d/1FjOvn4t3GvnT8-I9luEOddw7HmMMFwW7c1VC3GnhA9c/edit?usp=sharing)
 
 Education
