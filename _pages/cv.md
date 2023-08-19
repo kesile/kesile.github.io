@@ -83,6 +83,6 @@ As the Chief Design Officer of the New England Innovation Academy school store, 
 
 ## Certifications
 
-- **Harvard**: SWAN Conference | Yearly Attendance
-- **Babson**: Entrepreneurship Certificate | 2022
-- **MIT**: Entrepreneurship Bootcamp | 2023
+- **Harvard**: SWAN Conference // Yearly Attendance
+- **Babson**: Entrepreneurship Certificate // 2022
+- **MIT**: Entrepreneurship Bootcamp // 2023
