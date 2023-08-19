@@ -13,7 +13,7 @@ Education
 * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-<embed src="https://sumanbogati.github.io/sample.pdf" type="application/pdf"/>
+<embed src="https://docs.google.com/document/d/1FjOvn4t3GvnT8-I9luEOddw7HmMMFwW7c1VC3GnhA9c/edit?usp=sharing" type="application/pdf"/>
 
 Work experience
 ======
