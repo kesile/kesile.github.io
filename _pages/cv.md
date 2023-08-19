@@ -5,7 +5,7 @@
 Hello! I'm a rising junior and returning boarding student at New England Innovation Academy. I'm a strong believer in leveraging rapidly advancing technologies to create a better world. Let's collaborate to achieve something great together.
 
 # Experience
-
+Where I've worked and what I've done there.
 ## Research @ Massachusetts Institute of Technology | 2023 - Current
 During my time at MIT, I am working within the confluence of Artificial Intelligences and the City Sciences. More specifically, my work is geared towards making data accessible to the average citizen.
 - Spearheaded the creation of SQLLM, a bandwidth efficient, adaptable architecture that allowed LLMs to securely interact with databases without forfeiting more information than required.
@@ -29,7 +29,7 @@ As the Chief Design Officer of the New England Innovation Academy school store, 
 - I was also responsible for the creation/solution of payment processing within the website, working with administration to identify feasible solutions. Payment processing solution was then used during the 2023 NEIA Gala.
 - As CDO, I was also in charge of the design of all of our current items. I worked closely with the CMO and COO, alongside administration to identify feasible clothing design solutions and ideal garment choices.
 
-## Projects
+# Projects
 
 ### SQLLM - Touchless, secure LLM-DB interaction.
 
@@ -59,13 +59,15 @@ As the Chief Design Officer of the New England Innovation Academy school store, 
 - Addressing the limitations of conventional urban simulation methodologies by emphasizing the human experience.
 - Launched during the summer of 2023 at the CSL Lab; continued development in collaboration with MIT in the United States.
 
-### ITS4RP
-
-- Created the Internal Technology Suite for Red Peak, comprising chat interfaces, automatic post generation, and efficient document querying.
-
 ### An Empathetic Approach To Urban Design
 
 - Authored AEA2UD, a research paper proposing a unique human-centered-design framework for urban planning.
+- Currently working to get it published.
+
+### TeaRoute
+- TeaRoute is a project that I built to make text classification accessible to all.
+- TeaRoute is a recursively improving, trainable, cheap (1,000,000 Classifications per 1$), and easy to seat up (< 200 Characters) system for text classification available anywhere.
+- Previously, similar systems I had made for each project took days to develop. With my system, it took minutes.
 
 ## Skills
 
@@ -76,6 +78,6 @@ As the Chief Design Officer of the New England Innovation Academy school store, 
 
 ## Certifications
 
-- Harvard SWAN Conference | Yearly Attendance
-- Babson Entrepreneurship Certificate | 2022
-- MIT Entrepreneurship Bootcamp | 2023
+- **Harvard** | SWAN Conference | Yearly Attendance
+- **Babson** | Entrepreneurship Certificate | 2022
+- **MIT** | Entrepreneurship Bootcamp | 2023
